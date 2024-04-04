@@ -10,7 +10,7 @@
 * 게임 트랜드를 분석하여 다음 분기에 어떤 게임을 설계할지 결정
 
 ### 데이터 설명
-vgames2.cvs - 2020년 이전의 게임 판매 실적 정형 데이터(.csv)
+vgames2.cvs - 2020년 이전의 게임 판매 실적 정형 데이터
 > * Name : 게임의 이름
 > * Platform : 게임이 지원되는 플랫폼
 > * Year : 게임이 출시된 연도
@@ -38,3 +38,46 @@ vgames2.cvs - 2020년 이전의 게임 판매 실적 정형 데이터(.csv)
   * 공간적 제한이 없음
   * 게임들을 온라인 스토어를 통해 쉽게 구매할 수 있는 편의성이 있음
   * 따라서 게임 시장 매출의 많은 비율을 예상함
+<br>
+
+---
+<br>
+
+### Project Topic
+* Analysis of game trends through game sales data
+> 1. Popular game genres by region
+> 2. Game trends by year
+> 3. Analysis and visualization of top-selling games
+
+### Project Objective
+* Analyzing game trends to decide on game design for the next quarter
+
+### Data Description
+vgames2.csv - game sales data before 2020
+> * Name
+> * Platform
+> * Year
+> * Genre
+> * Publisher
+> * NA_Sales
+> * EU_Sales
+> * JP_Sales
+> * Other_Sales
+
+### Project Summary
+Results by categories:
+* Popular game platforms: Wii, DS, Xbox Series
+* Profitable markets: North America, Europe
+* Popular game genres: Action, Sports, Shooter
+  * Alternatively, focus on Role-Playing for the Japanese market
+* Popular game publishers: Collaborate with Nintendo or Activision
+
+Limitations:
+* Insufficient data after 2016 based on analysis of yearly game data
+  * Analysis results may not reflect recent trends
+* Data does not include newly released gaming platforms such as Nintendo Switch and PS5
+* Analysis including the mobile game market is needed
+  * Unlike console-based platforms, there are no additional costs associated with purchasing a device
+  * No spatial limitations
+  * Convenience of easily purchasing games through online stores
+  * Therefore, a significant proportion of game market revenue is expected.
